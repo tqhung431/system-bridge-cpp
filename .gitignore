@@ -1,0 +1,28 @@
+# CMake build directories
+/build/
+/out/
+CMakeUserPresets.json
+
+# Visual Studio files and directories
+.vs/
+*.user
+*.suo
+*.sln
+*.vcxproj
+*.filters
+
+# Compiled Binaries and Objects
+*.exe
+*.dll
+*.lib
+*.obj
+*.pdb
+*.ilk
+*.exp
+
+# Testing framework artifacts
+_deps/
+
+# OS Specific
+Thumbs.db
+.DS_Store

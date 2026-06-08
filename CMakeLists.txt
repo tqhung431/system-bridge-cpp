@@ -15,7 +15,7 @@ endif()
 
 # Define our core systems library target
 add_library(SystemBridgeCore
-    src/core/ScopeHandle.cpp
+    src/core/ScopedHandle.cpp
 )
 
 # Target-based include directories (cleaner than global include_directories)
